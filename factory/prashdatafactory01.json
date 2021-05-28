@@ -1,0 +1,9 @@
+{
+	"name": "prashdatafactory01",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ea364df4-c74c-4127-bfc8-1ffb95f6642c",
+		"tenantId": "4a8821a4-cd9a-4867-af86-328878a849b6"
+	}
+}
